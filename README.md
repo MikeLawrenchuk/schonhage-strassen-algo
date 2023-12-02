@@ -7,7 +7,7 @@ This repository contains a Python script that utilizes the Fast Fourier Transfor
 ## Usage
 
 1. Ensure you have `numpy` installed.
-2. Run the script using `python3 script_name.py`.
+2. Run the script using `python3 schon-strass-algo.py`.
 3. Input two large numbers when prompted.
 4. The multiplied result will be saved in a timestamped output file.
 
